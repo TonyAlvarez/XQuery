@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+	<!-- a bookstore database -->
+	<book isbn="111111" cat="fiction">
+		<!-- a particular book -->
+		<title lang="chn">Harry Potter</title>
+		<price unit="us">79.99</price>
+	</book>
+	<book isbn="222222" cat="textbook">
+		<title lang="eng">Learning XML</title>
+		<price unit="us">69.95</price>
+	</book>
+	<book isbn="333333" cat="textbook">
+		<title lang="eng">Intro. to Databases</title>
+		<price unit="usd">39.00</price>
+	</book>
+</bookstore>
